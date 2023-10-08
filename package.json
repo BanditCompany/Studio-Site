@@ -21,6 +21,7 @@
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.0",
     "@eliancodes/brutal-ui": "^0.2.2",
+    "@iconify/json": "^2.2.125",
     "astro": "^3.2.0",
     "satori": "^0.5.0",
     "satori-html": "^0.3.2"
