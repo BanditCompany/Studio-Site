@@ -20,12 +20,8 @@ export const GET: APIRoute = async () => {
       <div style="display: flex; flex-direction: column; justify-content: space-between; width: 100%; filter: drop-shadow()">
         <div style="display: flex; flex-direction: column; gap: 0.75rem;">  
           <p style="font-size: 48px;">BanditStudios</p>
-          <p style="font-size: 38px;">A theme for Astro</p>
-          <p style="font-size: 38px;">Brought to you by Elian</p>
-        </div>
-        <div style="display: flex; justify-content: space-between; align-items: baseline; padding-top: -2rem;">
-          <p style="font-size: 32px">${link}</p>
-          <img src="https://www.elian.codes/assets/img/elian.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
+          <p style="font-size: 38px;">An art, video, and game studio! </p>
+          <p style="font-size: 38px;">Brought to you by BanditCo</p>
         </div>
       </div>
     </div>
